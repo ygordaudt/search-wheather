@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version ^9.1.7.
 
+![](/src/assets/img/home.PNG)
+
+![](/src/assets/img/details.PNG)
+
+![](/src/assets/img/bookmarks.PNG)
+
+
+## Getting an API Key
+
+Create a new account at https://openweathermap.org to get an API Key. Then set the the variable `apiKey` on `\src\environments\environment.ts` with your API Key.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
