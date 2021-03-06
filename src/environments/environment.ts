@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiKey: '23f0b61c4132e6c51a363dbdb51c2d28',
+  apiKey: 'put here your API KEY from https://home.openweathermap.org/api_keys',
 };
 
 /*
